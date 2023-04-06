@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8ce276a5-9cda-49d8-bc23-ddd15cff2b48"
+      }
+    },
+    "owner": "maksym_007"
   }
 }
